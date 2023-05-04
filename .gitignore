@@ -41,7 +41,10 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+
+# HTML report directories
 mochawesome-report/
+.tmp/
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
@@ -129,3 +132,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#MAC
+.DS_Store
+/.DS_Store

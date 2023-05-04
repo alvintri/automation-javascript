@@ -3,8 +3,6 @@ Feature: Customer flow
     Background:
         Given I am on the login page
         
-
-
   Scenario: User can't add customer without input customer name
     When i input email as "fares.tris@gmail.com" and password as "tokopedia123"
     And i click on button login

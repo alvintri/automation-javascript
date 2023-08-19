@@ -21,6 +21,8 @@ How To Run
 ```
 
 Project Structure
+```
 Branch :
 Main - API & Web Test
 Mobile-automation - API, WEB & Mobile Test
+```
